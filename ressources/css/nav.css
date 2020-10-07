@@ -1,0 +1,6 @@
+.navbar-brand {
+    color: yellow;
+}
+.nav-link:hover {
+    border-bottom: 1px solid yellow;
+}

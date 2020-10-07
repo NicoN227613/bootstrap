@@ -1,0 +1,30 @@
+.client {
+    background-image: url(../images/header.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.client h2 {
+    color: #FFFFFF;
+}
+.client blockquote {
+    padding: 5px;
+    font-style: italic;
+    line-height: 130%;
+    color: #FFFFFF;
+}
+.client blockquote::before {
+    content: "\201C";
+    font-size: 800%;
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    color: rgba(255, 255, 255, 0.6);
+}
+.client cite {
+    font-size: 90%;
+    margin-top: 20px;
+}
+.client cite img {
+    border-radius: 8px;
+    margin-right: 10px;
+}

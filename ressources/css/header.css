@@ -1,0 +1,22 @@
+header {
+    background-image: url(../images/header.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+.header-title {
+    position: absolute;
+    top: 30%;
+}
+.header-title h1 {
+    font-size: 340%;
+    color: #FFFFFF;
+}
+.header-title h1 span {
+    font-weight: 700;
+    color: yellow;
+}
+.header-title p {
+    color: #FFFFFF;
+}

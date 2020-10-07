@@ -1,0 +1,6 @@
+.card-recipe {
+    margin: 20px 0;
+}
+.card-recipe:hover {
+    transform: translateX(20px);
+}
